@@ -1,0 +1,134 @@
+﻿
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+   
+}
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+} 
+#style1{ font-size:10pt; border:1px black solid; width:380px; height:200px; text-align:left;}
+         #style1  td{ border:none;}
+#style1 .lbl {	font-weight:bold; width:20%;   	}
+ #style1    .datav       	{       		font-style:italic; text-align:left; border-bottom:1px black solid;    		}
+     
+ #style1    .headern  {          	font-weight:bold;     	text-align:center; font-size:9pt;  	}
+   #style1        .baraddress {       		text-align:center;    		width:200pt;}
+    #style1       .style2		{  			text-align:center;          			}
+      #backpage{ width:380px; height:200px; font-size:9pt; position:relative;}    
+      .lbl
+      {font-weight:bold; width:20%; }
+      .datav       	{       		font-style:italic; text-align:left; border-bottom:1px black solid;    		}
+     
+.page {
+     width: 20cm;
+        min-height: 25.7cm;
+        padding: 0.5cm;
+        margin: 0.5cm auto;
+        border: 1px #D3D3D3 solid;
+        border-radius: 1px;
+        background: white;
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  
+    
+}
+.subpage {
+    padding: 1cm;
+    border: 1px white solid;
+   width:19cm;
+     min-height: 24cm;
+    outline: 2cm #ff0000 solid;
+  
+    margin-left:auto;
+margin-right:auto;
+}
+
+
+.subpage2 {
+    padding: 1cm;
+    border: 1px red solid;
+   width:380px;
+     min-height: 200px;
+    outline: 2cm #ff0000 solid;
+    text-align:left;
+  float:right;
+   
+position:absolute;
+}
+  
+    .headerp {
+ text-align: center;
+ font-weight: bold;
+}
+.tcenter {
+ text-align: right;
+ font-weight: bold;
+}
+#tblneed 
+{
+ border: 1px solid #000;
+  margin-left:auto;
+margin-right:auto;
+ }
+ #tblneed td
+ {
+ border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+  }
+    #bcard
+  {
+    width:440px;
+    height:220px;
+    
+    border:1px solid black;
+  }
+  #bcard .cname
+  {
+    font-size:10.5pt;
+    font-weight:bold;
+    float:left;
+   
+  }
+  #bcard .baddress
+  {
+    font-size:10pt;
+    float:left;
+      
+  }
+   .detail label
+  {
+   
+    font-weight:bold;
+    
+      
+  }
+   .lbsp
+  {
+    width:120px;
+    position:absolute;
+    font-weight:bold;
+  }
+  .de
+  {
+    padding-left:25%;
+  }
+@media print {
+    .page {
+    
+        margin: 0;
+        border: initial;
+        border-radius: initial;
+       width:initial;
+        min-height: initial;
+        box-shadow: initial;
+        background: initial;
+        page-break-after: always;
+    }
+
+}
+
+     
+
+   

@@ -1,0 +1,148 @@
+        <div >
+            style='box-sizing: border-box; padding-bottom: 10px;'>
+            <h2 
+                style='box-sizing: border-box; font-family: &quot;Open Sans&quot;, sans-serif; font-weight: 500; line-height: 1.1; color: inherit; margin-top: 20px; margin-bottom: 10px; font-size: 30px;'>
+                Mail Client Manual Settings</h2>
+            <p 
+                style='box-sizing: border-box; margin: 0px 0px 10px; padding-bottom: 20px;'>
+                If you do not see an auto-configuration script for your client in the list 
+                above, you can manually configure your mail client using the settings below:</p>
+				</div>
+                         
+                       <div class='col-md-4' 
+                            style='width:200px; float:left; box-sizing: border-box; padding: 10px 15px; border-bottom: 1px solid rgb(66, 139, 202); border-top-right-radius: 3px; border-top-left-radius: 3px; color: rgb(255, 255, 255); background-color: rgb(66, 139, 202); border-top-color: rgb(66, 139, 202); border-right-color: rgb(66, 139, 202); border-left-color: rgb(66, 139, 202);'>
+                            Secure<span>&nbsp;</span><abbr 
+                                style='box-sizing: border-box; border-bottom: 1px dotted rgb(153, 153, 153); cursor: help;' 
+                                title='Secure Sockets Layer'>SSL</abbr>/<abbr 
+                                style='box-sizing: border-box; border-bottom: 1px dotted rgb(153, 153, 153); cursor: help;' 
+                                title='Transport Layer Security'>TLS</abbr><span>&nbsp;</span>Settings 
+                            (Recommended)
+                        <table class='table manual_settings_table' 
+                            style='box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: transparent; margin-bottom: 0px; table-layout: fixed; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;'>
+                            <tbody style='box-sizing: border-box;'>
+                                <tr style='box-sizing: border-box;'>
+                                    <td 
+                                        style='box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: middle; border-top: 0px; width: 120px;'>
+                                        Username:</td>
+                                    <td 
+                                        style='box-sizing: border-box; padding: 8px; overflow-wrap: break-word; line-height: 1.42857; vertical-align: middle; border-top: 0px;'>
+                                        administrator@netconsult.com.et</td>
+                                </tr>
+                                <tr style='box-sizing: border-box;'>
+                                    <td 
+                                        style='box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: middle; border-top: 1px solid rgb(221, 221, 221); width: 120px;'>
+                                        Password:</td>
+                                    <td 
+                                        style='box-sizing: border-box; padding: 8px; font-style: italic; line-height: 1.42857; vertical-align: middle; border-top: 1px solid rgb(221, 221, 221);'>
+                                        Use the email account’s password.</td>
+                                </tr>
+                                <tr style='box-sizing: border-box;'>
+                                    <td 
+                                        style='box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: middle; border-top: 1px solid rgb(221, 221, 221); width: 120px;'>
+                                        Incoming Server:</td>
+                                    <td  
+                                        style='box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: middle; border-top: 1px solid rgb(221, 221, 221);'>
+                                        mail.netconsult.com.et<ul class='port_list list-inline' 
+                                            style='box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; padding-left: 0px; list-style: none; margin-left: -5px;'>
+                                            <li style='box-sizing: border-box; display: inline-block; padding-left: 5px; padding-right: 5px;'>
+                                                <abbr class='initialism' 
+                                                    style='box-sizing: border-box; font-size: 12.6px; text-transform: uppercase; border-bottom: 1px dotted rgb(153, 153, 153); cursor: help;' 
+                                                    title='Internet Message Access Protocol'>
+                                                IMAP</abbr><span>&nbsp;</span>Port: 993<span>&nbsp;</span></li>
+                                            <li style='box-sizing: border-box; display: inline-block; padding-left: 5px; padding-right: 5px;'>
+                                                <abbr class='initialism' 
+                                                    style='box-sizing: border-box; font-size: 12.6px; text-transform: uppercase; border-bottom: 1px dotted rgb(153, 153, 153); cursor: help;' 
+                                                    title='Post Office Protocol 3'>
+                                                POP3</abbr><span>&nbsp;</span>Port: 995</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr style='box-sizing: border-box;'>
+                                    <td 
+                                        style='box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: middle; border-top: 1px solid rgb(221, 221, 221); width: 120px;'>
+                                        Outgoing Server:</td>
+                                    <td 
+                                        style='box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: middle; border-top: 1px solid rgb(221, 221, 221);'>
+                                        mail.netconsult.com.et<ul class='port_list list-inline' 
+                                            style='box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; padding-left: 0px; list-style: none; margin-left: -5px;'>
+                                            <li style='box-sizing: border-box; display: inline-block; padding-left: 5px; padding-right: 5px;'>
+                                                <abbr style='box-sizing: border-box; border-bottom: 1px dotted rgb(153, 153, 153); cursor: help;' 
+                                                    title='Simple Mail Transfer Protocol'>
+                                                SMTP</abbr><span>&nbsp;</span>Port: 465</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr style='box-sizing: border-box;'>
+                                    <td class='notes' colspan='2' 
+                                        style='box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: middle; border-top: 1px solid rgb(221, 221, 221); width: 120px; border-bottom-left-radius: 3px; border-bottom-right-radius: 3px;'>
+                                        <div i
+                                            style='box-sizing: border-box;'>
+                                            IMAP, POP3, and SMTP require authentication.</div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                
+               
+                     <div class='col-md-4' 
+                            style='width:200px; float:left; box-sizing: border-box; padding: 10px 15px; border-bottom: 1px solid rgb(246, 195, 66); border-top-right-radius: 3px; border-top-left-radius: 3px; color: rgb(51, 51, 51); background-color: rgb(252, 248, 225); border-top-color: rgb(246, 195, 66); border-right-color: rgb(246, 195, 66); border-left-color: rgb(246, 195, 66);'>
+                            <span  style='box-sizing: border-box;'>Non-SSL Settings</span><span>&nbsp;</span><span 
+                                
+                                style='box-sizing: border-box; font-weight: normal;'>(NOT Recommended)</span>
+                        <table 
+                            style='box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: transparent; margin-bottom: 0px; table-layout: fixed; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;'>
+                            <tbody style='box-sizing: border-box;'>
+                                <tr style='box-sizing: border-box;'>
+                                    <td 
+                                       >     Username:</td>
+                                    <td 
+                                             administrator@netconsult.com.et</td>
+                                </tr>
+                                <tr style='box-sizing: border-box;'>
+                                    <td >
+                                         Password:</td>
+                                    <td 
+                                      >   Use the email account’s password.</td>
+                                </tr>
+                                <tr style='box-sizing: border-box;'>
+                                    <td > Incoming Server:</td>
+                                    <td  
+                                   >     mail.netconsult.com.et<ul class='port_list list-inline' 
+                                            <li style='box-sizing: border-box; display: inline-block; padding-left: 5px; padding-right: 5px;'>
+                                                <abbr class='initialism' 
+                                                    style='box-sizing: border-box; font-size: 12.6px; text-transform: uppercase; border-bottom: 1px dotted rgb(153, 153, 153); cursor: help;' 
+                                                    title='Internet Message Access Protocol'>
+                                                IMAP</abbr><span>&nbsp;</span>Port: 143<span>&nbsp;</span></li>
+                                            <li style='box-sizing: border-box; display: inline-block; padding-left: 5px; padding-right: 5px;'>
+                                                <abbr class='initialism' 
+                                                    style='box-sizing: border-box; font-size: 12.6px; text-transform: uppercase; border-bottom: 1px dotted rgb(153, 153, 153); cursor: help;' 
+                                                    title='Post Office Protocol 3'>
+                                                POP3</abbr><span>&nbsp;</span>Port: 110</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr style='box-sizing: border-box;'>
+                                    <td 
+                                       >   Outgoing Server:</td>
+                                    <td 
+                                     >   mail.netconsult.com.et<ul class='port_list list-inline' 
+                                            style='box-sizing: border-box; margin-top: 0px; margin-bottom: 10px; padding-left: 0px; list-style: none; margin-left: -5px;'>
+                                            <li style='box-sizing: border-box; display: inline-block; padding-left: 5px; padding-right: 5px;'>
+                                                <abbr style='box-sizing: border-box; border-bottom: 1px dotted rgb(153, 153, 153); cursor: help;' 
+                                                    title='Simple Mail Transfer Protocol'>
+                                                SMTP</abbr><span>&nbsp;</span>Port: 587</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr style='box-sizing: border-box;'>
+                                    <td  colspan='2' 
+                                       >  <div 
+                                            class='small_note' style='box-sizing: border-box;'>
+                                            IMAP, POP3, and SMTP require authentication.</div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                

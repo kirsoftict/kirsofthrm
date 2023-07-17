@@ -1,0 +1,300 @@
+﻿
+          .h3
+         {
+             text-align: center;
+             font-weight: 700;
+             font-size: medium;
+         }
+         .style1
+         {
+             font-size: x-small;
+             font-weight: bold;
+             vertical-align:top;
+         }
+         .style2
+         {
+             width: 122px;
+         }
+         .style3
+         {
+             font-size: x-small;
+             text-align: left;
+             width: 268435408px;
+         }
+         .h7
+         {
+             font-weight: 700;
+             font-size: x-small;
+             vertical-align:top;
+         }
+         .h8
+         {
+             font-size: x-small;
+             font-weight: 700;
+             vertical-align:top;
+         }
+         .h9
+         {
+             font-weight: 700;
+             font-size: x-small;
+             vertical-align:top;
+         }
+         .h10
+         {
+             font-weight: 700;
+             font-size: x-small;
+         }
+         .style4
+         {
+             font-weight: 700;
+             font-size: x-small;
+             vertical-align:top;
+         }
+         .style5
+         {
+             font-weight: 700;
+             font-size: x-small;
+             width: 90px;
+         }
+         .style6
+         {
+             width: 90px;
+             font-weight: bold;
+             font-size: x-small;
+             vertical-align:top;
+         }
+         .style17
+         {
+             font-weight: 700;
+             font-size: x-small;
+               vertical-align:top;
+         }
+         .style18
+         {
+             width: 58px;
+             font-weight: bold;
+             font-size: x-small;
+             vertical-align:top;
+         }
+         .style19
+         {
+             width: 79px;
+             font-weight: bold;
+             font-size: x-small;
+             vertical-align:top;
+         }
+         .style20
+         {
+             width: 143px;
+             font-weight: bold;
+             font-size: x-small;
+             vertical-align:top;
+         }
+         .style22
+         {
+             font-size: x-small;
+             vertical-align:top;
+         }
+         .style23
+         {
+             font-weight: bold;
+         }
+         .style24
+         {
+             font-weight: bold;
+             font-size: xx-small;
+             text-align: center;
+         }
+         .style25
+         {
+             font-size: xx-small;
+         }
+         .style26
+         {
+             font-weight: bold;
+             text-align: center;
+         }
+.cssamt
+{
+	font-size:9pt;
+	text-align:right;
+	  border-left: 1.0pt solid windowtext;
+           
+            border-bottom: 1.0pt solid windowtext;
+           
+	
+	}
+	.nox 
+	{
+	font-size:9pt;
+		  border-left: 2.0pt solid windowtext;
+          
+            border-bottom: 1.0pt solid windowtext;	
+		}
+	.ename 
+	{
+		font-size:9pt;
+		  border-left: 1.0pt solid windowtext;
+          
+            border-bottom: 1.0pt solid windowtext;
+            width:220px;
+		}
+	.edate 
+	{
+		font-size:9pt;
+		  border-left: 1.0pt solid windowtext;
+          
+            border-bottom: 1.0pt solid windowtext;
+		}
+	.tin
+	{
+		font-size:9pt;
+		  border-left: 1.0pt solid windowtext;
+          
+            border-bottom: 1.0pt solid windowtext;
+		}
+	td
+	{
+		height:auto;
+		}
+	.csssign
+	{
+		font-size:9pt;
+	
+	  border-left: 1.0pt solid windowtext;
+	  border-right: 2.0pt solid windowtext;
+            border-bottom: 1.0pt solid windowtext;
+		}
+		  body {
+        margin: 0;
+        padding: 0;
+        background-color: #FAFAFA;
+        font: 10pt;
+    }
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.page {
+     width: 29.7cm;
+        min-height: 19cm;
+        padding: 0.1cm;
+        margin: 0.1cm auto;
+        border: 1px #D3D3D3 solid;
+        border-radius: 1px;
+        background: white;
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+		.subpage {
+      width: 28.7cm;
+         padding: 0.1cm;
+        border: 1px white solid;
+        height: 18cm;
+        outline: 1cm #FFEAEA solid;
+       /* background:yellow;*/
+}
+
+
+    .headerp {
+ text-align: center;
+ font-weight: bold;
+}
+.tcenter {
+ text-align: right;
+ font-weight: bold;
+}
+#tblneed 
+{
+ border: 1px solid #000;
+  margin-left:auto;
+margin-right:auto;
+ }
+ #tblneed td
+ {
+ border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+  }
+  .nnrow
+{
+	 border-bottom:1px solid black;
+         border-left:1px solid black;
+         text-align:left;
+        	}
+        	.nnrowx
+{
+	 border-bottom:1px dotted black;
+         border-left:1px dotted black;
+         text-align:left;
+        	}
+        	
+        	.tn
+        	{
+        		 border-bottom:1px solid black;
+         border-left:2pt double black;
+         border-right:2pt double black;
+         border-top:2pt double black;
+        	
+        		text-align:left;
+        		
+        		}
+        		
+        			.headsn
+        			{
+        				  border-right:2pt double black;
+        				  border-bottom:1px solid black;
+        				  border-left:1px solid black;
+        				  
+        				
+        				}
+        				.heads{
+        				  
+        				border-bottom:1px solid black;
+        				border-left:1px solid black;
+        				}
+        				.lheads
+        				{
+        					border-left:2pt double black;
+        					border-bottom:1px solid black;        					
+        					}
+        					.ldbl
+        				{
+        					border-left:2pt double black;
+        					border-bottom:1px dotted black;        					
+        					}
+        					.fname
+        		{
+        			  border-right:2pt double black;
+        			   border-bottom:1px dotted black;
+         border-left:1px dotted black;
+        			  text-align:left; 
+        			 
+        			}
+        			.numbc
+        			{
+        				border-right:2pt double black;
+        					border-bottom:1px dotted black; 
+        					border-left:1px dotted black; 
+        					font-weight:700;
+        					text-align:right;	
+        				}
+ 
+ 
+    @page {
+        size: landscape;
+        
+        margin: 0.75in 0.15in 0.15in 0.15in;
+    }
+    @media print {
+        .page {
+            margin: 0;
+            border: initial;
+            border-radius: initial;
+            width: initial;
+            min-height: initial;
+            box-shadow: initial;
+            background: initial;
+            page-break-after: always;
+        }
+    }
+  
+     

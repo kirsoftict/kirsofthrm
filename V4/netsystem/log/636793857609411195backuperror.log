@@ -1,0 +1,39 @@
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at logout.Page_Load(Object sender, EventArgs e) in F:\kirsoft\hrm\mgtcontract\contract_mgt\logout.aspx.vb:line 35
+update chatroom set active='n' where ssid='e32fvdy5j35ldnpelid2iqx1'
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at logout.Page_Load(Object sender, EventArgs e) in F:\kirsoft\hrm\mgtcontract\contract_mgt\logout.aspx.vb:line 35
+update chatroom set active='n' where ssid='e32fvdy5j35ldnpelid2iqx1'
+<=======12/2/2018 10:05:46 PM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at logout.Page_Load(Object sender, EventArgs e) in F:\kirsoft\hrm\mgtcontract\contract_mgt\logout.aspx.vb:line 35
+update chatroom set active='n' where ssid='uhkepbq0ceyirrv3nkdqzxz3'
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at logout.Page_Load(Object sender, EventArgs e) in F:\kirsoft\hrm\mgtcontract\contract_mgt\logout.aspx.vb:line 35
+update chatroom set active='n' where ssid='uhkepbq0ceyirrv3nkdqzxz3'
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at logout.Page_Load(Object sender, EventArgs e) in F:\kirsoft\hrm\mgtcontract\contract_mgt\logout.aspx.vb:line 35
+update chatroom set active='n' where ssid='e32fvdy5j35ldnpelid2iqx1'
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at logout.Page_Load(Object sender, EventArgs e) in F:\kirsoft\hrm\mgtcontract\contract_mgt\logout.aspx.vb:line 35
+update chatroom set active='n' where ssid='e32fvdy5j35ldnpelid2iqx1'
+<=======12/2/2018 10:05:46 PM
+<=======12/2/2018 10:05:56 PM

@@ -1,0 +1,27 @@
+﻿.pagination
+{
+    display:inline-block;
+    }
+    
+ .pagination li
+ {
+     color:black;
+     float:left;
+     padding:8px 16px;
+     text-decoration:none;
+     display:inline;
+     cursor:pointer;
+     }
+  .active
+  {
+      background-color:#4caf50;
+      color:white;
+      }
+      
+
+   .pagination li:hover:not(.active)
+   {
+       cursor:pointer;
+        background-color:#ddd;
+       }
+  

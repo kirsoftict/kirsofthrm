@@ -1,0 +1,65 @@
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='cc3q2sa5zdvnmieuc5v10bql'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='cc3q2sa5zdvnmieuc5v10bql'
+<=======21/01/2019 05:39:20
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='sha1mtmyvjva5a34hjmrheco'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='sha1mtmyvjva5a34hjmrheco'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='cc3q2sa5zdvnmieuc5v10bql'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='cc3q2sa5zdvnmieuc5v10bql'
+<=======21/01/2019 05:39:20
+<=======21/01/2019 09:49:58
+System.IO.IOException: The process cannot access the file 'F:\kirsoft\hrm\mgtcontract\netsystem\log\logkir.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   at System.IO.File.WriteAllText(String path, String contents, Encoding encoding)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6989
+update chatroom set active='n' where ssid='iros4m55ovnlr2a5jbx3uj45'
+System.IO.IOException: The process cannot access the file 'F:\kirsoft\hrm\mgtcontract\netsystem\log\logkir.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   at System.IO.File.WriteAllText(String path, String contents, Encoding encoding)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6989
+update chatroom set active='n' where ssid='iros4m55ovnlr2a5jbx3uj45'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='cc3q2sa5zdvnmieuc5v10bql'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='cc3q2sa5zdvnmieuc5v10bql'
+<=======21/01/2019 05:39:20
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='sha1mtmyvjva5a34hjmrheco'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='sha1mtmyvjva5a34hjmrheco'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='cc3q2sa5zdvnmieuc5v10bql'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='cc3q2sa5zdvnmieuc5v10bql'
+<=======21/01/2019 05:39:20
+<=======21/01/2019 09:49:58
+<=======21/01/2019 09:50:00

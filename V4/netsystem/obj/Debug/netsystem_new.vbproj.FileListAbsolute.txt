@@ -1,0 +1,8 @@
+F:\kirsoft\hrm\mgtcontract\netsystem_new\netsystem_new\bin\netsystem_new.dll
+F:\kirsoft\hrm\mgtcontract\netsystem_new\netsystem_new\bin\netsystem_new.pdb
+F:\kirsoft\hrm\mgtcontract\netsystem_new\netsystem_new\bin\netsystem_new.xml
+F:\kirsoft\hrm\mgtcontract\netsystem_new\netsystem_new\obj\Debug\netsystem_new.Resources.resources
+F:\kirsoft\hrm\mgtcontract\netsystem_new\netsystem_new\obj\Debug\netsystem_new.vbproj.GenerateResource.Cache
+F:\kirsoft\hrm\mgtcontract\netsystem_new\netsystem_new\obj\Debug\netsystem_new.dll
+F:\kirsoft\hrm\mgtcontract\netsystem_new\netsystem_new\obj\Debug\netsystem_new.xml
+F:\kirsoft\hrm\mgtcontract\netsystem_new\netsystem_new\obj\Debug\netsystem_new.pdb

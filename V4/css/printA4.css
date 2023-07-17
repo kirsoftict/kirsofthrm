@@ -1,0 +1,151 @@
+﻿ #bigprint
+            {
+                width:950px;
+                font-size:6.9pt;
+            }
+            #tb1 
+            {
+                font-size:6.9pt;
+                width:27cm;
+                border:1px solid black;
+                margin:0.25in 0.25in 0.25in 0.25in
+               }
+     #tb1 .fxname
+            {
+                 border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                width:310px;
+               
+            }                      
+       
+       #tb1 td
+            {
+         
+             border-bottom-style:dotted;
+             border-right-style:dotted;
+             border-width:1px;
+             border-color:black;
+             height:28px;
+                font-size:6.5pt;
+                
+            }  
+         
+          #tb1  .fitx
+            {
+               
+                border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                width:15px;
+               
+            }
+           #tb1 .dw
+            {
+               border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+              
+                width:10px;
+            }
+           #tb1 .dedct
+            {
+                
+                 border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+            }
+           #tb1 .signpart
+            {
+               border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                width:90px;
+            }        
+           #tb1 .cooo
+            {
+                border-top-style:solid;
+                 border-right-style:dotted;
+                
+               
+                
+                border-bottom-style:double;
+                border-width: 1px 2px 4px 0px;
+                border-color:black;
+                font-weight:bold;
+            }
+            #tb1 .dedctx
+            {
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+            }
+          #tb1 .sss1
+          {
+            border:none none none none;
+            
+          }
+          #tbl1 .sss
+          {
+            border:none none none none;
+          }
+          #tb1 .l1
+          {
+          width:110px;
+          text-align:center;
+          border-style:none none;
+          }
+          #tb1 .l2
+          {
+          width:80px;
+          text-align:center;
+          border-style:none none;
+          }
+          #tb1 .l3
+          {
+          width:80px;
+          text-align:center;
+          border-style:none none;
+          }
+          #tb1 .l4
+          {
+          width:80px;
+          text-align:center;
+          border-style:none none;
+          }
+          #tb1 .l5
+          {
+          width:80px;
+          text-align:center;
+          border-style:none none;
+          }
+          #tb1 .fitxot
+          {
+          	 border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                width:15px;
+          	}
+          	 #tb1 .fxnameot
+            {
+                 border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                width:310px;
+               
+            }     
+            	 #tb1 .signx
+            {
+                 border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                width:100px;
+               
+            }     
+             	 #tb1 .dwot
+            {
+                 border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                width:10px;
+               
+            }  

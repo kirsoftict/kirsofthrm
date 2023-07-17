@@ -1,0 +1,41 @@
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.SqlClient.SqlConnection.PermissionDemand()
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6980
+update chatroom set active='n' where ssid='2sbdm2rrir02vyrlyo0ycxiv'
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.SqlClient.SqlConnection.PermissionDemand()
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6980
+update chatroom set active='n' where ssid='2sbdm2rrir02vyrlyo0ycxiv'
+<=======14/02/2019 22:37:01
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='2sbdm2rrir02vyrlyo0ycxiv'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='2sbdm2rrir02vyrlyo0ycxiv'
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.SqlClient.SqlConnection.PermissionDemand()
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6980
+update chatroom set active='n' where ssid='2sbdm2rrir02vyrlyo0ycxiv'
+System.InvalidOperationException: The ConnectionString property has not been initialized.
+   at System.Data.SqlClient.SqlConnection.PermissionDemand()
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\netsystem\App_Code\mastercode.vb:line 6980
+update chatroom set active='n' where ssid='2sbdm2rrir02vyrlyo0ycxiv'
+<=======14/02/2019 22:37:01
+<=======15/02/2019 00:26:46

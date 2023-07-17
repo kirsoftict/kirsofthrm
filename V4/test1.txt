@@ -1,0 +1,1132 @@
+﻿<html><head><link href='images/kir.ico' rel='shortcut icon'><title>Net Consult Consulting Engineers and Architects P.L.C</title><link rel='stylesheet' href='css/iso.css' /><script language='javascript' type='text/javascript' src='jqq/jquery-1.9.1.js'></script></head><body><DIV class=page>
+<DIV class=subpage>
+<TABLE class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0 width=961 align=center>
+<TBODY>
+<TR>
+<TD height=60 width=116>
+<P class=MsoHeader><IMG hspace=12 align=left src="images\netlog.png" width=69 height=41 v:shapes="Picture_x0020_9"><SPAN><O:P></O:P></SPAN></P></TD>
+<TD vAlign=top width=527>
+<P class=MsoHeader><B><SPAN>&nbsp;</SPAN></B><SPAN>Company Name:<O:P></O:P></SPAN></P>
+<P style="TEXT-ALIGN: center" class=MsoNormal align=center><SPAN>ኔት ኮንሰልት አማካሪ መሐንዲሶችና አርክቴክቶች ኃ/የተ/የግ/ማ<O:P></O:P></SPAN></P>
+<P style="TEXT-ALIGN: center" class=MsoHeader align=center><B><SPAN>NET CONSULT CONSULTING ENGINEERS AND ARCHITECTES PLC</SPAN></B><SPAN><O:P></O:P></SPAN></P></TD>
+<TD vAlign=top width=218 colSpan=2>
+<P class=MsoHeader><SPAN>Document No.:<O:P></O:P></SPAN></P>
+<P class=MsoHeader><SPAN><O:P>&nbsp;</O:P></SPAN></P>
+<P style="TEXT-ALIGN: center" class=MsoHeader align=center><SPAN>OF/NET/______<O:P></O:P></SPAN></P></TD></TR>
+<TR>
+<TD vAlign=top width=643 colSpan=2>
+<P class=MsoHeader><SPAN>Title:&nbsp; <O:P></O:P></SPAN></P>
+<P style="TEXT-ALIGN: center" class=MsoHeader align=center><B><SPAN>Human Resource Report</SPAN></B><SPAN><O:P></O:P></SPAN></P></TD>
+<TD vAlign=top width=79>
+<P class=MsoHeader><SPAN>Issue No.:<O:P></O:P></SPAN></P>
+<P class=MsoHeader><SPAN><O:P>&nbsp;</O:P></SPAN></P>
+<P style="TEXT-ALIGN: center" class=MsoHeader align=center><SPAN>1<O:P></O:P></SPAN></P>
+<P class=MsoHeader><SPAN><O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD vAlign=top width=140></TD></TR></TBODY></TABLE>
+<TABLE width=961 align=center>
+<TBODY>
+<TR>
+<TD>From:Jan 01, 2016-Dec 31, 2016</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>
+<P>Report type:Hired</P></TD>
+<TD>
+<P class=MsoHeader><SPAN>Page No.:<O:P></O:P></SPAN></P>
+<P style="TEXT-ALIGN: center" class=MsoHeader align=center><SPAN>Page </SPAN><B><SPAN>1</SPAN></B><SPAN> of </SPAN><SPAN><SPAN><B>3</B></SPAN></P></SPAN></TD></TR></TBODY></TABLE>
+<TABLE class=tbliso border=0 cellSpacing=0 cellPadding=0 width=968>
+<TBODY>
+<TR>
+<TD rowSpan=2 width=35 noWrap>S/No<SPAN><O:P></O:P></SPAN> </TD>
+<TD rowSpan=2 width=150 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Name<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=110 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Position<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=45 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Hire Date<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=22 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Sex<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=150>
+<P class=MsoNormal align=center><B><SPAN>Education Background<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=170>
+<P class=MsoNormal align=center><B><SPAN>Work place<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=71 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Emply. Status<O:P></O:P></SPAN></B></P></TD>
+<TD width=71 colSpan=2 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Gross Pay<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=71 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Remark<O:P></O:P></SPAN></B></P></TD></TR>
+<TR>
+<TD width=75 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Salary<O:P></O:P></SPAN></B></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Alw/Pr<O:P></O:P></SPAN></B></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>1<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Beneyam Tewodros Kebede<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Assistant Labratory Technician <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>1/4/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Grade 10<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>laboratory Room<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>1750<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>2<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Samuel Mesfin Yemane<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Assistant Labratory Technician <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>1/4/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Grade 10<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>laboratory Room<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>1750<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>3<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Nuru Ali Ahmed<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Assistant Resident Engineer <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>1/8/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Civil Engineering<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Adaba-Angetu Road Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>16100<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>4<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Sisay Wolde Gurmu<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Contract Engineer <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>1/15/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Civil Engineering<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Head Office<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>15000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>3800<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>5<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Yosef Nedaw G/Hana<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Structural Inspector <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>1/29/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Building Construction Technology<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Hawasa-Hageremariam Section, Lot II Chuko-Yirgachefe<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>5000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>6<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Musa Mohammed Ahmed<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Drafts person <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>2/1/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Civil &amp; Urban Engineering<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Aysid-Kong ( Guba Begondi)<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>4000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>7<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Tenkir Lemma Nidaw<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Quantity Surveyor <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>3/7/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Civil Engineering<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Koka-Adulala-Debrezeit Design Build Road Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>5500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>8<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Zigale Tamirat Taffes<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Works Inspector <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>3/16/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Building Construction Technology<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Hawasa-Hageremariam Section, Lot II Chuko-Yirgachefe<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>5000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>9<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Meron Fersha Shkur<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Secretery <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>3/16/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Female<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Information Technology Technician<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Head Office<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>3200<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>10<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Debabu Asnake Tesfaye<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Drafts person <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>3/21/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Construction Technology &amp; Management<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Musile-Bada Road Design Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>5000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>11<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Welelaw Taye Terefe<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Office Engineer <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>3/30/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Construction Technology<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Dechot Galafi Junction-Elder-Belho Design &amp; Build Road Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>20000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>2370<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>12<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Fantahun Fikadu Menker<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Works Inspector <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>4/1/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Construction Technology &amp; Management<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Awash-Mile Asphalt Overlay Road Project( Contract-1&amp;2)<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>5000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>13<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Daude Ali Mohammed<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Assistant Labratory Technician <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>4/1/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Grade 8<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>laboratory Room<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>1750<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>14<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Hagos Elsa Hailu<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Surveyor <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>4/1/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Advanced Surveying Technician<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Musile-Bada Road Design Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>6000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>15<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Abreham Eshete Amedie<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Senior Surveyor <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>4/13/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Advanced Surveying Technician<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Dechot Galafi Junction-Elder-Belho Design &amp; Build Road Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>10600<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR></TBODY></TABLE></DIV></DIV>
+<DIV class=page>
+<DIV class=subpage>
+<TABLE width=961 align=center>
+<TBODY>
+<TR>
+<TD>From:Jan 01, 2016-Dec 31, 2016</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>
+<P>Report type:Hired</P></TD>
+<TD>
+<P class=MsoHeader><SPAN>Page No.:<O:P></O:P></SPAN></P>
+<P style="TEXT-ALIGN: center" class=MsoHeader align=center><SPAN>Page </SPAN><B><SPAN>1</SPAN></B><SPAN> of </SPAN><SPAN><SPAN><B>3</B></SPAN></P></SPAN></TD></TR></TBODY></TABLE>
+<TABLE class=tbliso border=0 cellSpacing=0 cellPadding=0 width=968>
+<TBODY>
+<TR>
+<TD rowSpan=2 width=35 noWrap>S/No<SPAN><O:P></O:P></SPAN> </TD>
+<TD rowSpan=2 width=150 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Name<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=110 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Position<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=45 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Hire Date<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=22 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Sex<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=150>
+<P class=MsoNormal align=center><B><SPAN>Education Background<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=170>
+<P class=MsoNormal align=center><B><SPAN>Work place<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=71 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Emply. Status<O:P></O:P></SPAN></B></P></TD>
+<TD width=71 colSpan=2 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Gross Pay<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=71 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Remark<O:P></O:P></SPAN></B></P></TD></TR>
+<TR>
+<TD width=75 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Salary<O:P></O:P></SPAN></B></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Alw/Pr<O:P></O:P></SPAN></B></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>16<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Melash Asmare Dershe<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Labratory Technician <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>4/18/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Building Construction Technology<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Awash-Mile Asphalt Overlay Road Project( Contract-1&amp;2)<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>4500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>17<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Wosen W/Mariam W/Senbet<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Senior Labratory Technician <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>4/18/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Construction Technology<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Dechot Galafi Junction-Elder-Belho Design &amp; Build Road Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>8000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>1500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>18<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Yared Zemedu Demisse<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Surveyor <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>4/20/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Surveying Technology<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Mizan -Dima-Boma Upgrading Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>4500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>19<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Fikirte Gebreamlak Kiros<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Drafts person <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>5/2/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Female<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Civil Engineering<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Dechot Galafi Junction-Elder-Belho Design &amp; Build Road Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>8400<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>20<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Napoleon Getu Alegnta<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Material Inspector <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>5/4/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Building Construction Technology<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Moricho-Dimtu-Bitena Sodo Design &amp; Build Road Project Contract-2( Bitena Sodo)<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>4500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>21<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Mesfin Tehelku Zipo<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Assistant Resident Engineer <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>5/6/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Civil Engineering<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Moricho-Dimtu-Bitena Sodo Design &amp; Build Road Project Contract-2( Bitena Sodo)<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>13000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>3000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>22<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Yosaph Asrat Mullye<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Assistant Resident Engineer <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>5/7/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Civil Engineering<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Bonga-Ameya chida<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>13000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>23<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Shewatatek Workneh Asres<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Surveyor <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>5/9/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Surveying Technology<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Aysid-Kong ( Guba Begondi)<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>4500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>24<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Hashim Awol Hassen<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Structural Engineer <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>5/21/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Civil Engineering<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Head Office<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>17250<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>6850<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>25<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Denkayehu Nega Bashaw<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Material Engineer <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>6/1/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Civil Engineering<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Mizan -Dima-Boma Upgrading Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>18500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>5250<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>26<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Binyam Bekure Taye<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Drafts person <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>6/8/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Construction Technology &amp; Management<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Bonga-Ameya chida<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>5500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>27<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Kibrom Mulugeta Asmelash<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Structural Inspector <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>6/18/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Construction Technology<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Koka-Adulala-Debrezeit Design Build Road Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>4500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>28<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Kedir Muktar Nuri<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Structural Engineer <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>6/22/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Civil Engineering<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Musile-Bada Road Design Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>14000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>3700<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>29<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Tewodros Birhane Mengesha<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Personnel officer <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>7/4/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Managment<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Head Office<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>4200<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>30<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Nesibu Ayalew Haile<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Drafts person <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>8/1/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Drafting Technology<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Bahirdar-Zema Road Upgrading Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>4500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR></TBODY></TABLE></DIV></DIV>
+<DIV class=page>
+<DIV class=subpage>
+<TABLE width=961 align=center>
+<TBODY>
+<TR>
+<TD>From:Jan 01, 2016-Dec 31, 2016</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD>
+<P>Report type:Hired</P></TD>
+<TD>
+<P class=MsoHeader><SPAN>Page No.:<O:P></O:P></SPAN></P>
+<P style="TEXT-ALIGN: center" class=MsoHeader align=center><SPAN>Page </SPAN><B><SPAN>1</SPAN></B><SPAN> of </SPAN><SPAN><SPAN><B>3</B></SPAN></P></SPAN></TD></TR></TBODY></TABLE>
+<TABLE class=tbliso border=0 cellSpacing=0 cellPadding=0 width=968>
+<TBODY>
+<TR>
+<TD rowSpan=2 width=35 noWrap>S/No<SPAN><O:P></O:P></SPAN> </TD>
+<TD rowSpan=2 width=150 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Name<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=110 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Position<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=45 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Hire Date<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=22 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Sex<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=150>
+<P class=MsoNormal align=center><B><SPAN>Education Background<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=170>
+<P class=MsoNormal align=center><B><SPAN>Work place<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=71 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Emply. Status<O:P></O:P></SPAN></B></P></TD>
+<TD width=71 colSpan=2 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Gross Pay<O:P></O:P></SPAN></B></P></TD>
+<TD rowSpan=2 width=71 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Remark<O:P></O:P></SPAN></B></P></TD></TR>
+<TR>
+<TD width=75 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Salary<O:P></O:P></SPAN></B></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><B><SPAN>Alw/Pr<O:P></O:P></SPAN></B></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>31<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Eyassu Tesfamariam Hagos<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Deputy General Manager <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>8/1/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Civil Engineering<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Head Office<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>43500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>32<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Ermiyas Mohammed Ekulu<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Driver <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>9/22/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Driving<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Head Office<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>3500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>33<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Tewodros Tefera Ejigu<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Material Inspector <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>9/29/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Surveying Technology<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Bahirdar-Zema Road Upgrading Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>4500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>34<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Solomon Tadesse Yimer<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Surveyor <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>9/30/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Surveying Technology<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Tulu Bolo-Kela Road Design Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>4500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>35<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Henok Fantahun Mamo<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Junior Accountant <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>10/12/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Accounting<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Head Office<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>3000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>36<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Alemtsehay Tekola Damtea<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Secretery <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>10/14/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Female<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Secretary Science<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Bonga-Ameya chida<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>2000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>37<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Binyam Tadesse Bekel<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Drafts person <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>10/20/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Advanced Drafting Technician<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Head Office<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>5500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>1800<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>38<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Yohannes Zekarias Lehore<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Contract Engineer <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>11/1/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Bridge Managment<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Head Office<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>22000<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>6220<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>39<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Yonas H/Gebriel Tesfaye<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Drafts person <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>11/11/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Drafting Technology<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Adaba-Angetu Road Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>4500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>40<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Dure Shalo Shote<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Protection Officer <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>11/13/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN><O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>laboratory Room<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>1400<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>41<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Abebe Asnake Moges<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Drafts person <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>11/19/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Construction Technology &amp; Management<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Dechot Galafi Junction-Elder-Belho Design &amp; Build Road Project<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>8400<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>1500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>42<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Yohannes Gebrehiwet Berhe<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Structural Inspector <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>11/22/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Civil Engineering<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Aysid-Kong ( Guba Begondi)<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Inactive<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>4500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR>
+<TR>
+<TD width=35 noWrap>
+<P class=ename><SPAN>43<O:P></O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Simon Samuel Hafebo<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=110 noWrap>
+<P class="ename "><SPAN>Senior Surveyor <O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=45 noWrap>
+<P class="ename "><SPAN>12/29/2016<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>Male<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=150 noWrap>
+<P class=ename><SPAN>Surveying Technology<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=198 noWrap>
+<P class=ename><SPAN>Moricho-Dimtu-Bitena Sodo Design &amp; Build Road Project Contract-2( Bitena Sodo)<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=22 noWrap>
+<P class="ename "><SPAN>active<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>5500<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=cssamt><SPAN>0<O:P>&nbsp;</O:P></SPAN></P></TD>
+<TD width=71 noWrap>
+<P class=MsoNormal align=center><SPAN>&nbsp;<O:P>&nbsp;</O:P></SPAN></P></TD></TR></TBODY></TABLE></DIV></DIV></body></html>

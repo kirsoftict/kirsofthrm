@@ -1,0 +1,88 @@
+﻿ #tblapp
+            {
+                font-size:9pt;
+                margin-left:55px;
+                width:800px;
+                border:1px solid black;
+               }
+     #tblapp .fxname
+            {
+                 border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                width:310px;
+               
+            }                      
+       
+       #tblapp td
+            {
+         
+             border-bottom-style:dotted;
+             border-right-style:dotted;
+             border-width:1px;
+             border-color:black;
+                font-size:9pt;
+                
+            }  
+         
+          #tblapp  .fitx
+            {
+				text-align:center;
+                border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                
+               
+            }
+           #tblapp .dw
+            {
+               border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+              
+                width:30px;
+            }
+            #tblapp .headp
+            {
+               border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+               
+               font-size:10pt;
+            }
+           #tblapp .dedct
+            {
+                
+                 border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+            }
+           #tblapp .signpart
+            {
+               border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                width:180px;
+            }        
+           #tblapp .cooo
+            {
+                border-top-style:solid;
+                 border-right-style:dotted;
+                
+               
+                
+                border-bottom-style:double;
+                border-width: 1px 2px 4px 0px;
+                border-color:black;
+                font-weight:bold;
+            }
+            #tblapp .dedctx
+            {
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+            }
+          #tblapp .bnone
+          {
+            border:none none none none;
+            
+          }

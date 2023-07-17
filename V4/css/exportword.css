@@ -1,0 +1,388 @@
+﻿
+		  body {
+        margin: 0;
+        padding: 0;
+        background-color: #FAFAFA;
+        font: 10pt;
+    }
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.page {/* 21.0 x 29.7cm*/
+     width: 29.7cm;
+        max-height: 17.5cm;
+        padding: 0.2cm;
+        margin: 0.2cm auto;
+        border: 1px #D3D3D3 solid;
+        border-radius: 1px;
+        background: white;
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        
+}
+		.subpage {
+     margin:1px 1px 1px 1px;
+     width:29cm;
+     
+      font-size:11pt;
+         
+        /*border: 2px red solid;
+        outline: 0.25cm #FFA solid;*/
+        font-size:9px;
+        
+       
+}
+.subpage .top1
+{
+    width:28cm;
+    line-height:115%;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif";
+	border:2pt black solid;
+    }
+    .subpage .tbltop
+{
+    width:28cm;
+    line-height:115%;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif";
+	border:2pt black solid;
+    }
+     .subpage .tbliso
+{
+    width:28cm;
+    font-size:10.0pt;
+	font-family:"Calibri","sans-serif";
+	border:2pt black solid;
+    }
+
+
+.cssamt
+{
+	font-size:11px;
+	text-align:right;
+	 
+           
+	
+	}
+	.nox 
+	{
+	font-size:9pt;
+		 
+		}
+	.ename 
+	{
+		font-size:11px;
+		 
+          
+		}
+	.edate 
+	{
+		font-size:9pt;
+		  border-left: 1.0pt solid windowtext;
+          
+            border-bottom: 1.0pt solid windowtext;
+		}
+	.tin
+	{
+		font-size:9pt;
+		  border-left: 1.0pt solid windowtext;
+          
+            border-bottom: 1.0pt solid windowtext;
+		}
+	td
+	{
+		height:auto;
+		border:1px solid black;
+		}
+	.csssign
+	{
+		font-size:9pt;
+	
+	  border-left: 1.0pt solid windowtext;
+	  border-right: 2.0pt solid windowtext;
+            border-bottom: 1.0pt solid windowtext;
+		}
+	.tbliso td
+	{
+	border:1pt black solid;
+	}
+	.viewtax
+	{
+	    color:Black;
+	    cursor:pointer;
+	    
+	    }
+    p.MsoHeader
+	{margin-bottom:.0001pt;
+	tab-stops:center 3.0in right 6.0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	        margin-left: 0in;
+            margin-right: 0in;
+            margin-top: 0in;
+        }
+ p.MsoNormal
+	{margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	        margin-left: 0in;
+            margin-right: 0in;
+            margin-top: 0in;
+        }
+    .headerp {
+ text-align: center;
+ font-weight: bold;
+}
+.tcenter {
+ text-align: right;
+ font-weight: bold;
+}
+#tblneed 
+{
+ border: 1px solid #000;
+  margin-left:auto;
+margin-right:auto;
+ }
+ #tblneed td
+ {
+ border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+  }
+  .nnrow
+{
+	 border-bottom:1px solid black;
+         border-left:1px solid black;
+         text-align:left;
+        	}
+        	.nnrowx
+{
+	 border-bottom:1px dotted black;
+         border-left:1px dotted black;
+         text-align:left;
+        	}
+        	
+        	.tn
+        	{
+        		 border-bottom:1px solid black;
+         border-left:2pt double black;
+         border-right:2pt double black;
+         border-top:2pt double black;
+        	
+        		text-align:left;
+        		
+        		}
+        		
+        			.headsn
+        			{
+        				  border-right:2pt double black;
+        				  border-bottom:1px solid black;
+        				  border-left:1px solid black;
+        				  
+        				
+        				}
+        				.heads{
+        				  
+        				border-bottom:1px solid black;
+        				border-left:1px solid black;
+        				}
+        				.lheads
+        				{
+        					border-left:2pt double black;
+        					border-bottom:1px solid black;        					
+        					}
+        					.ldbl
+        				{
+        					border-left:2pt double black;
+        					border-bottom:1px dotted black;        					
+        					}
+        					.fname
+        		{
+        			  border-right:2pt double black;
+        			   border-bottom:1px dotted black;
+         border-left:1px dotted black;
+        			  text-align:left; 
+        			 
+        			}
+        			.numbc
+        			{
+        				border-right:2pt double black;
+        					border-bottom:1px dotted black; 
+        					border-left:1px dotted black; 
+        					font-weight:700;
+        					text-align:right;	
+        				}
+        .tbliso
+        {
+           min-width:28cm;
+            text-align:left;
+            font-size:9px;
+            border:1px solid black;
+            
+            }
+ 
+ 
+ 
+  
+     body {
+    margin: 0;
+    padding: 0;
+    background-color: #FAFAFA;
+    font: 12pt "Tahoma";
+}
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.page {
+    width: 29.7cm;
+    max-height: 21cm;
+    padding: 0.5cm;
+    margin: 0.5cm auto;
+    border: 1px #D3D3D3 solid;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
+}
+.subpage {
+    padding: 0px;
+    /* border: 5px red solid;*/
+    height: 18cm;
+    outline: 4px #FFEAEA solid;
+}
+.table_title{
+	width: 100%;
+	font-size: 17px;
+	text-align: center;
+	padding-top: 4px;
+}
+table.data, table.sub_data{
+	width: 100%;
+	border-width: 1px;
+	border-collapse: collapse;
+}
+table.data tr th{
+	background-color: #CCC;
+	height: 30px;
+}
+table.data tr td{
+	padding: 1px;
+}
+div.label{
+	float: left;
+	padding-right: 40px;
+}
+input.subtle_box{
+	font-size: 14px;
+	border: 0px solid #333;
+	height: 18px;
+	width: 100%;
+	text-align: left;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+input.underlined_box{
+	font-size: 14px;
+	border: 0px solid #333;
+	border-bottom: 1px solid #666;
+	height: 18px;
+	text-align: left;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+input.underlined_box_dotted{
+	font-size: 14px;
+	border: 0px solid #333;
+	border-bottom: 1px dotted #666;
+	height: 18px;
+	text-align: left;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+span.print{
+	font-size: 14px;
+	border: 0px solid #333;
+	/*border-bottom: 1px solid #666;*/
+	height: 18px;
+	text-align: left;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	display: none;
+}
+select.screen{
+	border: none;
+}
+input.table_box_left{
+	font-size: 13px;
+	border: 0px solid #333;
+	width: 100%;
+	/*height: 23px;*/
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+input.table_box_right{
+	font-size: 13px;
+	border: 0px solid #333;
+	width: 100%;
+	/*height: 23px;*/
+	text-align: right;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+input.date{
+	text-align: center;
+	padding: 0px;
+}
+.form_footer{
+	margin-top: 20px;
+}
+table.signature tr td span{
+	border-top: 1px solid #333;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.stamp{
+	padding: 8px;
+	border: 1px dashed #999;
+	text-align: center;
+}
+.underlined{
+	display: inline;
+	border-bottom: 1px solid #333;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.table2, .table3{
+	line-height: 14px;
+}
+.table4{
+	line-height: 12px;
+}
+.table1{
+	line-height: 13px;
+	width: 100%;
+	border-width: 1px;
+	border-collapse: collapse;
+}
+table.table1 tr td{
+	padding: 1px;
+}
+  @page
+      {
+        size: 29.7cm 21cm;  /* A4 */
+        margin: 1cm 1cm 1cm 1cm;
+        mso-page-orientation: landscape;	
+      }
+      @page .page
+      {
+        mso-title-page: no;
+        mso-paper-source:0;
+        mso-header-margin: 0;
+        mso-footer-margin: 0;
+      }
+   .page {
+        page:page;
+        mso-header-margin: 0;
+        mso-footer-margin: 0;
+      }

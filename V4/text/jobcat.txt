@@ -1,0 +1,55 @@
+Accounting
+Admin & Clerical
+Automotive
+Banking
+Biotech
+Broadcast  Journalism
+Business Development
+Construction
+Consultant
+Customer Service
+Design
+Distribution  Shipping
+Education  Teaching
+Engineering
+Entry Level  New Grad
+Executive
+Facilities
+Finance
+Franchise
+General Business
+General Labor
+Government
+Grocery
+Health Care
+Hotel  Hospitality
+Human Resources
+Information Technology
+Installation  Maint  Repair
+Insurance
+Inventory
+Legal
+Legal Admin
+Management
+Manufacturing
+Marketing
+Media  Journalism  Newspaper
+Nonprofit  Social Services
+Nurse
+Pharmaceutical
+Professional Services
+Purchasing  Procurement
+QA  Quality Control
+Real Estate
+Research
+Restaurant  Food Service
+Retail
+Sales
+Science
+Skilled Labor  Trades
+Strategy  Planning
+Supply Chain
+Telecommunications
+Training
+Transportation
+Warehouse

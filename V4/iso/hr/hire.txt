@@ -1,0 +1,52 @@
+  <table width="100%" class='data table4' border="1"> <tbody><tr align="center">
+            <td rowspan="2" width="35">
+                
+                    S/No
+            </td>
+            <td rowspan="2" width="150">
+                <p align="center" >
+                    <b>Name</b></p>
+            </td>
+            <td rowspan="2" width="110">
+                <p align="center" >
+                    <b>Position</b></p>
+            </td>
+<td rowspan="2" width="45">
+                <p align="center" >
+                    <b>Hire Date</b></p>
+            </td>
+            <td rowspan="2" width="22">
+                <p align="center" >
+                    <b>Sex</b></p>
+            </td>
+            <td rowspan="2" width="150">
+                <p align="center" >
+                    <b>Education Background</b></p>
+            </td>
+            <td rowspan="2" width="170">
+                <p align="center" >
+                    <b>Work place</b></p>
+            </td>
+            <td rowspan="2" width="71">
+                <p align="center" >
+                    <b>Emply. Status</b></p>
+            </td>
+            <td colspan="2"width="71">
+                <p align="center" >
+                    <b>Gross Pay</b></p>
+            </td>
+            <td rowspan="2" width="71">
+                <p align="center" >
+                    <b>Remark</b></p>
+            </td>
+        </tr>
+         <tr style="line-height: 12px;" align="center">
+            <td width="75">
+                <p align="center" >
+                    <b>Salary</b></p>
+            </td>
+            <td width="71">
+                <p align="center" >
+                    <b>Alw/Pr</b></p>
+            </td>
+        </tr>

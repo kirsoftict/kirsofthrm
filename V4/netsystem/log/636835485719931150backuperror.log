@@ -1,0 +1,49 @@
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='20khbqny3xzzfa451qykjuqa'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='20khbqny3xzzfa451qykjuqa'
+<=======18/01/2019 11:24:47
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='sha1mtmyvjva5a34hjmrheco'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='sha1mtmyvjva5a34hjmrheco'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='20khbqny3xzzfa451qykjuqa'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='20khbqny3xzzfa451qykjuqa'
+<=======18/01/2019 11:24:47
+<=======18/01/2019 11:27:38
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='20khbqny3xzzfa451qykjuqa'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='20khbqny3xzzfa451qykjuqa'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='20khbqny3xzzfa451qykjuqa'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='20khbqny3xzzfa451qykjuqa'
+<=======18/01/2019 11:24:47
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='sha1mtmyvjva5a34hjmrheco'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='sha1mtmyvjva5a34hjmrheco'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='20khbqny3xzzfa451qykjuqa'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='20khbqny3xzzfa451qykjuqa'
+<=======18/01/2019 11:24:47
+<=======18/01/2019 11:27:38
+<=======18/01/2019 11:44:58

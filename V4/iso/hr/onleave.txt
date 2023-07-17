@@ -1,0 +1,42 @@
+  
+    <table class='tbliso' border="0"  cellpadding="0" cellspacing="0" class="MsoNormalTable" 
+        >
+        <tr>
+            <td nowrap  width="35">
+                <p align="center" class="MsoNormal">
+                    <b><span>S/No<o:p></o:p></span></b></p>
+            </td>
+            <td nowrap  width="136">
+                <p align="center" class="MsoNormal">
+                    <b><span>Name<o:p></o:p></span></b></p>
+            </td>
+            <td nowrap  width="158">
+                <p align="center" class="MsoNormal">
+                    <b><span>Project<o:p></o:p></span></b></p>
+            </td>
+<td  width="100">
+                <p align="center" class="MsoNormal">
+                    <b><span>Leave Type<o:p></o:p></span></b></p>
+            </td>
+            <td  width="64">
+                <p align="center" class="MsoNormal">
+                    <b><span>Leave Started<o:p></o:p></span></b></p>
+            </td>
+            <td nowrap width="64">
+                <p align="center" class="MsoNormal">
+                    <b><span>Return Date<o:p></o:p></span></b></p>
+            </td>
+            <td nowrap  width="50">
+                <p align="center" class="MsoNormal">
+                    <b><span>Leave Balance<o:p></o:p></span></b></p>
+            </td>
+<td nowrap  width="90">
+                <p align="center" class="MsoNormal">
+                    <b><span>Tel<o:p></o:p></span></b></p>
+            </td>
+<td nowrap  width="90">
+                <p align="center" class="MsoNormal">
+                    <b><span>E-mail<o:p></o:p></span></b></p>
+            </td>
+        </tr>
+        

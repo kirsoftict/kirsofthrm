@@ -1,0 +1,186 @@
+$( document ).ready( function(){
+
+	var suffix_list = new Array( "-a", "-b", "-c", "-d", "-e", "-f", "-g", "-h", "-i", "-j", "-k", "-l", "-m", "-n", "-o", "-p", "-q", "-r", "-s", "-t", "-u", "-v", "-w", "-x", "-y", "-z" );
+	var added_page_count = 2, deleted_page_count = 0;
+
+	function incomeTax( salary ){
+		var tax = 0;
+		if( salary <= 600 )
+		{
+			tax = 0;
+		}
+		else if( salary > 600 && salary <= 1650 )
+		{
+			tax = (salary - 600) * 0.10;
+		}
+		else if( salary > 1650 && salary <= 3200 )
+		{
+			tax = (salary - 1650) * 0.15 + 105;
+		}
+		else if( salary > 3200 && salary <= 5250 )
+		{
+			tax = (salary - 3200) * 0.20 + 337.5;
+		}
+		else if( salary > 5250 && salary <= 7800 )
+		{
+			tax = (salary - 5250) * 0.25 + 747.5;
+		}
+		else if( salary > 7800 && salary <= 10900 )
+		{
+			tax = (salary - 7800) * 0.30 + 1385;
+		}
+		else if( salary > 10900 )
+		{
+			tax = (salary - 10900) * 0.35 + 2315;
+		}else{
+			tax = 0;
+		}
+		return tax;
+	}
+
+	function updatePageNumbers(){
+		$( '.page_count' ).html( added_page_count );
+	}
+
+	function setupPage(){
+		// Set the fields with 'date' class to show Ethiopian Calendar Picker on focus
+		$.calendars.picker.setDefaults( {dateFormat: 'MM d, yyyy'} );
+		$( '.date' ).calendarsPicker( {calendar: $.calendars.instance( 'ethiopian', 'am' )} );
+		$.calendars.picker.setDefaults( {dateFormat: 'M d, yy'} );
+		$( '.date_short' ).calendarsPicker( {calendar: $.calendars.instance( 'ethiopian', 'am' )} );
+
+		// Set the month dropdowns to the previous Ethiopian calendar month
+		etDate = $.calendars.instance( 'ethiopian', 'am' );
+		$( '.month' ).prop( 'selectedIndex', etDate.newDate().monthOfYear() - 2 );
+		$( '.print_month' ).html( $( '.month option:selected:first' ).text() );
+
+		// and set the year to the year of the previous month
+		$( '.year' ).html( etDate.newDate().add( -1, 'm' ).year() );
+	}
+
+	setupPage();
+
+	$( ".a4_landscape:first .ethiopic" ).jGeez();
+	$( ".a4_landscape:last .ethiopic" ).jGeez();
+
+	$( '#add_page' ).click( function(){
+		$.ajax({
+			type: "GET",
+			url: "../form_page_generator.php",
+			data: "action=add_inc_tax_page&page=" + added_page_count + "&offset=" + deleted_page_count,
+			success: function( msg ){
+				if( msg != '' ){
+					$( '.close_btn' ).remove();
+					$( '#more_pages' ).append( msg );
+					added_page_count++;
+					updatePageNumbers();
+					setupPage();
+					// Select the .ethiopic input elements just added and make them amharic inputable
+					$( '.a4_landscape' ).last().find( ".ethiopic" ).jGeez();
+					// Scroll down to the just added page
+					$( 'html, body, .content' ).animate( {scrollTop: $( document ).height()}, 2000 );
+				}
+			}
+		});
+		return false;
+	});
+
+	$( '#content' ).on( "focusout", ".calc", function(){
+		var suffix = $(this).attr( 'data' );
+		suffix == '-a' ? rows = 5 : rows = 18;
+		var taxable_total = 0, tax_total = 0, count = 0;
+		var salaried = 0, taxable = 0, tax = 0;
+		for( i = 1; i <= rows; i++ ){
+			if( $( '#salary' + suffix + i ).asNumber() > 0 ){
+				$( '#taxable_salary' + suffix + i ).val( $( '#salary' + suffix + i ).asNumber() + $( '#taxable_allowance' + suffix + i ).asNumber() + $( '#ot' + suffix + i ).asNumber() + $( '#other_benefits' + suffix + i ).asNumber() ).formatCurrency( {symbol:''} );
+				$( '#tax' + suffix + i ).val( incomeTax( $( '#taxable_salary' + suffix + i ).asNumber() ) ).formatCurrency( {symbol:''} );
+				$( '#net_pay' + suffix + i ).val(
+					( $( '#taxable_salary' + suffix + i ).asNumber() + $( '#allowance' + suffix + i ).asNumber() ) -
+					( $( '#tax' + suffix + i ).asNumber() + $( '#cost_sharing' + suffix + i ).asNumber() )
+				).formatCurrency( {symbol:''} );
+				taxable_total = taxable_total + $( '#taxable_salary' + suffix + i ).asNumber();
+				tax_total = tax_total + $( '#tax' + suffix + i ).asNumber();
+				count++;
+				// Since there is data in this row, make the row number visible (by making text color black (#FFF) via css)
+				$( '#row_no' + suffix + i ).css( 'color', '#000' );
+			}else{
+				$( '#taxable_salary' + suffix + i ).val( '' );
+				$( '#tax' + suffix + i ).val( '' );
+				$( '#net_pay' + suffix + i ).val( '' );
+				// Since there is no data in this row, hide the row number (by making text color white(#FFF) via css)
+				$( '#row_no' + suffix + i ).css( 'color', '#fff' );
+			}
+		}
+		$(this).formatCurrency( {symbol:''} );
+		// Do a total of the items on this page
+		$( '#total_taxable' + suffix ).val( taxable_total ).formatCurrency( {symbol:''} );
+		$( '#total_tax' + suffix ).val( tax_total ).formatCurrency( {symbol:''} );
+		$( '#count' + suffix ).val( count ).asNumber();
+
+		// Do a summary count to be used to update the 'ክፍል - 3 የወሩ የተጠቃለለ ሂሳብ' section found on the first page
+		for( i = 0; i < added_page_count; i++ ){
+			salaried = salaried + $( '#count' + suffix_list[ i ] ).asNumber();
+			taxable = taxable + $( '#total_taxable' + suffix_list[ i ] ).asNumber();
+			tax = tax + $( '#total_tax' + suffix_list[ i ] ).asNumber();
+		}
+		// Update the 'ሌሎች አባሪ ግፅዎች ድምር' fields found on the first page
+		$( '#other_pages_total_taxable-a' ).val( taxable - $( '#total_taxable-a' ).asNumber() ).formatCurrency( {symbol:''} );
+		$( '#other_pages_total_tax-a' ).val( tax - $( '#total_tax-a' ).asNumber() ).formatCurrency( {symbol:''} );
+
+		// Update the 'ክፍል - 3 የተጠቃለለ ሂሳብ' section found on the first page
+		$( '#months_salaried' ).val( salaried ).asNumber();
+		$( '#months_taxable' ).val( taxable ).formatCurrency( {symbol:''} );
+		$( '#months_tax' ).val( tax ).formatCurrency( {symbol:''} );
+	});
+
+	$( '#content' ).on( "focusout", ".replicate", function(){
+		value = $(this).val();
+		name = $(this).attr( 'name' );
+		if( $.trim( value ) != '' ){
+			for( i = 0; i < added_page_count; i++ ){
+				$( '#' + name + suffix_list[ i ] ).val( value );
+			}
+		}
+	});
+
+	$( '#content' ).on( "change", "select.screen", function(){
+		// Function that copies the value of the drop down (hidden during print) that was
+		// just changed to the hidden span that will be made visible during printing
+		$( '#' + $(this).attr( 'shadow' ) ).html( $(this).val() );
+	});
+
+	$( document ).on( "change", ".lang_switcher", function(){
+		if( $(this).val() == "en" ){
+			$(this).parent().parent().find( ".ethiopic" ).jGeez( "changeoptions", { "enabled": false });
+		}else{
+			$(this).parent().parent().find( ".ethiopic" ).jGeez( "changeoptions", { "enabled": true });
+		}
+	});
+
+	$( document ).on( "change", ".cal_switcher", function(){
+		$.calendars.picker.setDefaults( {dateFormat: 'MM d, yyyy'} );
+		if( $(this).val() == "greg" ){
+			$(this).parent().parent().find( '.date_short' ).calendarsPicker( 'option', {calendar: $.calendars.instance( 'gregorian' )} );
+		}else{
+			$(this).parent().parent().find( '.date_short' ).calendarsPicker( 'option', {calendar: $.calendars.instance( 'ethiopian', 'am' )} );
+		}
+	});
+
+	$( '#print' ).click( function(){
+		window.print();
+	});
+
+	$( document ).on( "click", ".close_btn", function(){
+		//$(this).parent().css( 'display', 'none' );
+		$(this).parent().remove(); // Delete the one page containing div
+		added_page_count--;
+		updatePageNumbers();
+		// Add a delete button to the page preceeding the page you just deleted. But, you can't delete the first page!
+		if( added_page_count >= 2 ){
+			$( '.a4_landscape' ).last().before( "<a class='close_btn'>close</a>" );
+		}
+		// Trigger a "focusout" event on a .calc cell so that values are re-calculated
+		$( '#salary-a1' ).trigger( 'focusout' );
+	});
+
+});

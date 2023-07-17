@@ -1,0 +1,51 @@
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at logout.Page_Load(Object sender, EventArgs e) in F:\kirsoft\hrm\mgtcontract\contract_mgt\logout.aspx.vb:line 35
+update chatroom set active='n' where ssid='uhkepbq0ceyirrv3nkdqzxz3'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='uhkepbq0ceyirrv3nkdqzxz3'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='uhkepbq0ceyirrv3nkdqzxz3'
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at logout.Page_Load(Object sender, EventArgs e) in F:\kirsoft\hrm\mgtcontract\contract_mgt\logout.aspx.vb:line 35
+update chatroom set active='n' where ssid='uhkepbq0ceyirrv3nkdqzxz3'
+<=======01/12/2018 22:22:00
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at logout.Page_Load(Object sender, EventArgs e) in F:\kirsoft\hrm\mgtcontract\contract_mgt\logout.aspx.vb:line 35
+update chatroom set active='n' where ssid='uhkepbq0ceyirrv3nkdqzxz3'
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at logout.Page_Load(Object sender, EventArgs e) in F:\kirsoft\hrm\mgtcontract\contract_mgt\logout.aspx.vb:line 35
+update chatroom set active='n' where ssid='uhkepbq0ceyirrv3nkdqzxz3'
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at logout.Page_Load(Object sender, EventArgs e) in F:\kirsoft\hrm\mgtcontract\contract_mgt\logout.aspx.vb:line 35
+update chatroom set active='n' where ssid='uhkepbq0ceyirrv3nkdqzxz3'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='uhkepbq0ceyirrv3nkdqzxz3'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='uhkepbq0ceyirrv3nkdqzxz3'
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at logout.Page_Load(Object sender, EventArgs e) in F:\kirsoft\hrm\mgtcontract\contract_mgt\logout.aspx.vb:line 35
+update chatroom set active='n' where ssid='uhkepbq0ceyirrv3nkdqzxz3'
+<=======01/12/2018 22:22:00
+<=======12/2/2018 9:51:14 PM

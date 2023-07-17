@@ -1,0 +1,13 @@
+System.InvalidOperationException: ExecuteNonQuery requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlConnection.GetOpenConnection(String method)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Kirsoft.hrm.dbclass.excutes(Object sql, SqlConnection conx, String pathx) in F:\kirsoft\hrm\v2\App_Code\mastercode.vb:line 7193<br>delete from tblbanks where id=6System.InvalidOperationException: ExecuteNonQuery requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlConnection.GetOpenConnection(String method)
+   at System.Data.SqlClient.SqlConnection.ValidateConnectionForExecute(String method, SqlCommand command)
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Kirsoft.hrm.dbclass.excutes(Object sql, SqlConnection conx, String pathx) in F:\kirsoft\hrm\v2\App_Code\mastercode.vb:line 7193<br>delete from tblbanks where id=6<=======7/13/2020 2:57:36 PM

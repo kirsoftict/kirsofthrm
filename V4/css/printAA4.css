@@ -1,0 +1,155 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    font: 9.5pt "Tahoma";
+}
+.page {
+    min-width: 27.40cm;
+   min-height:20cm;
+  
+    
+    
+    background-color: green;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+    font: 7.5pt "Tahoma";
+    page-break-after:auto;
+}
+.subpage {
+    padding:0.1cm;
+   min-width:27cm;
+     min-height: 19cm;
+     font: 7.5pt "Tahoma";
+    margin-left:auto;
+margin-right:auto;
+
+}
+
+
+ 
+#signpay
+{ 
+	font-size:7.5pt;
+                width:980px;
+                border:none;
+                text-align:center;
+                
+                
+	}
+	
+     
+         #printpayroll
+            {
+                font-size:6.9pt;
+                width:1000px;
+                border:1px solid black;
+               }
+  #printpayroll .fxname
+            {
+                 border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+               width:250px;
+               
+                
+              
+            }                      
+       
+ #printpayroll td
+            {
+         
+             border-bottom-style:dotted;
+             border-right-style:dotted;
+             border-width:1px;
+             border-color:black;
+             height:23px;
+                font-size:6.9pt;
+                
+            }  
+         
+      #printpayroll .fitx
+            {
+               
+                border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                width:13px;
+               
+            }
+         #printpayroll .dw
+            {
+               border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+              
+                width:10px;
+            }
+          #printpayroll .dedct
+            {
+                
+                 border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+            }
+        #printpayroll .signpart
+            {
+               border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                width:90px;
+            }        
+        #printpayroll .cooo
+            {
+                border-top-style:solid;
+                 border-right-style:dotted;
+                
+               
+                
+                border-bottom-style:double;
+                border-width: 1px 2px 4px 0px;
+                border-color:black;
+                font-weight:bold;
+            }
+           #printpayroll .dedctx
+            {
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+            }
+      #signpay .sss1
+          {
+            border:none none none none;
+            
+          }
+        #signpay .sss
+          {
+            border:none none none none;
+          }
+         #signpay td
+{ 
+	
+                border:none;
+                
+                
+                
+	}
+     
+            * {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+ 
+@media print 
+{     .page {
+         margin: 0;
+        border: initial;
+        border-radius: initial;
+       min-width:initial;
+      min-height: initial;
+        box-shadow: initial;
+                page-break-after:initial;
+    }
+
+}
+  
+             

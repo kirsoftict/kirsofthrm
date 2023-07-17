@@ -1,0 +1,176 @@
+<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+<%@ Import Namespace="kirsoft.hrm" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" href="jq/themes/ui-lightness/jquery.ui.all.css" />
+<script language="javascript" type="text/javascript" src="jq/jquery-1.7.2.js"></script>
+<script type="text/javascript"> 
+/*<!--
+    //Disable right click script  
+    var message = "Sorry, right-click has been disabled";
+    /////////////////////////////////// 
+    function clickIE() { if (document.all) { alert(message); return false; } }
+    function clickNS(e) {
+        if
+(document.layers || (document.getElementById && !document.all)) {
+            if (e.which == 2 || e.which == 3) { (message); return false; }
+        }
+    }
+    if (document.layers)
+    { document.captureEvents(Event.MOUSEDOWN); document.onmousedown = clickNS; }
+    else { document.onmouseup = clickNS; document.oncontextmenu = clickIE; }
+    document.oncontextmenu = new Function("return false") 
+// --> */
+</script>
+    <script type="text/javascript" src="scripts/style.js"></script>
+    <script src="scripts/script.js" type="text/javascript"></script>
+    <link type="text/css" rel="stylesheet" href="css/kir.login.css" />
+<script src="scripts/kirsoft.java.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+    function personalinfo()
+    {
+        $("#frmx").attr('target',"frm_tar");
+        $("#frmx").attr('action',"dataallview.aspx?empid=<% response.write(Session("emp_iid")) %>");
+        $("#frmx").submit();
+    }
+</script>
+    <style type="text/css">
+        #topcont
+        {
+            height: 127px;
+        }
+    </style>
+</head>
+<body style=' overflow:hidden;'>
+
+<div id="main_fram" style=' overflow:hidden;'>
+<form id='frmx' name='frmx' method="post" action=''></form>
+<%  'Response.Write(Session("right"))%>
+<div id="topcont">
+<div id="header_loc">
+<div class="logoc"><span><% Response.Write(Session("company_name"))%></span> 
+</div>
+<div class="loginfo" ><% if session("emp_iid")<>"Admin" then %>
+<span onclick="javascript:personalinfo();">personal info</span>&nbsp;&nbsp;&nbsp;
+<%  End If
+    Dim fm As New formMaker
+    If IsError(Session("right")) Then
+        Response.Redirect("logout.aspx")
+   
+    Else
+        Try
+            If fm.searcharray(Session("right").split(";"), 101) Then
+                Response.Write("<span><a href='netsystem/init.aspx' target='blank'>Portal</a></span>")
+            End If
+        Catch ex As Exception
+        Response.Write(Session("right") & " " & ex.ToString)
+        End Try
+      
+    End If
+                        %><span class="name_loc"><%=Session("username")%></span>
+<span><a href="changepwd.aspx" target="frm_tar">Change Password</a></span>
+<span><a href="logout.aspx">logout</a></span>
+<span><a href="homepage.aspx" target="frm_tar" style=' text-decoration:none;'><img src='images/b_home.png' /></a></span>
+<span onclick="back('-1')" class="welcome" style='cursor:pointer;color:blue'><img src='images/gif/ARW04LT.gif'  alt='<<Back'/>Back</span></div>
+    <asp:contentplaceholder id="top_cont" runat="server">
+           </asp:contentplaceholder>
+</div>
+<div id="menu_sec" style=" vertical-align:text-top;">
+  <div id="intl-menu2">  <%  If Session("right") = "" Then
+                                 Response.Redirect("login.aspx")
+                             End If
+                             'MsgBox(Session("right"))
+                             Dim menub As New menubuilder
+                             Dim rights() As String
+                             rights = menub.userrights(Session("right"), session("con"))
+                            ' Dim men() As String
+                             For i As Integer = 0 To rights.Length - 1
+                                 ' MsgBox("<br />" & rights(i))
+                             Next
+                             Dim menx As String
+                             If Session("mainm") = "" Then
+                                 menx = menub.mainmenu2(session("con"), Request.ServerVariables("url"), rights)
+                                 Response.Write(menx)
+                                 Session("mainm") = menx
+                             Else
+                                 Response.Write(Session("mainm"))
+                                 ' MsgBox(Session("mainm"))
+                             End If
+       
+                             'Dim submen() As String
+                             Dim subm As String
+                             ' Response.Write(men(1))
+                             If Request.QueryString("sub") <> "" Then
+                                 subm = Request.QueryString("sub")
+                             Else
+                                 subm = ""
+                             End If
+                             '  msgbox(men(1))
+                             
+                             ' submen = menub.submenu(session("con"), CStr(men(1)), subm)
+                             'Response.Write(submen(0))
+                             ' Session("ssm") = submen(4)
+                             'Session("pageid") = men(1)%>	</div>
+                            
+                            
+			           <%                     If Session("submenu") = "" Then
+			                   'Session("submenu") = menub.submenu2(Session("con"), rights)
+			                   Session("submenu") = groupmenu(Session("con"), rights)
+			               End If
+			               
+			               ' End If
+			               Response.Write(Session("submenu"))%>
+                         
+<asp:contentplaceholder id="menu_cont" runat="server">
+</asp:contentplaceholder></div>&nbsp;</div>
+        <div id="h_spacer" style="height:0px; width:auto; background-color:White;">&nbsp;</div>
+        <div id='showsum'></div>
+<div id="intrnal">
+ <asp:contentplaceholder id="ifram_cont" runat="server">
+        </asp:contentplaceholder>&nbsp;</div>
+
+   
+</div> <% Dim fl As New file_list
+           Response.Write(fl.dialog("divgrid", "", "<iframe name='igrid' id='igrid' width='500' height='500' frameborder='0' src='' scrolling='no'></iframe>"))
+%>
+
+<div id="footer" style=" background-color:#cacaca; clear:left;">
+<span id="spanCopyright">
+        <a href="http://www.kisoft.webuda.com" target="_blank">kirSoft</a>  HRM Software ver 1.0 &copy; kirSoft cp. <% response.write(today.year) %> All rights reserved.
+    </span>
+    </div>
+  <asp:Literal ID="script" runat="server"></asp:Literal>
+    <script>
+    
+        function clickxx(val) {
+            var objm = document.getElementById(val);
+            var w;
+            var ss;
+            w = findw(objm);
+            ss=window.screen.availWidth
+            if (w > (ss/2)) {
+                
+                objm.style.width = parseInt(ss/1.5)+"px";
+            }
+        }
+        var obj = document.getElementById("frm_tar");
+        var h = findTop(obj) + findh(obj);
+        var objc = document.getElementById("showsum");
+                       objc.style.top=h +"px";
+                       objc.style.left="100px";
+                       objc.style.position = "relative";
+                       objc.style.backgroundColor = "#cca1ff";
+                      
+                       //objc.style.height = "2px";
+			objc.style.visibility="Visible";
+                        
+                        objc.innerHTML="&nbsp;";
+                        
+                  </script>
+</body>
+</html>
+

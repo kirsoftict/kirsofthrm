@@ -1,0 +1,119 @@
+﻿#tb1
+{
+	border:solid 1px black;
+	width: 29.7cm;
+	font-size:6pt;
+margin:0px;
+	}
+#tb1 td
+{
+	font-size:10px;
+	}
+ #tb1 .toppx
+{
+	border-top-style:solid;
+	border-bottom-style:solid;
+	border-right-style:solid;
+	border-color:Black;
+	border-width:1px;
+             
+	}
+	#tb1 .toppxred
+{
+	border-top-style:solid;
+	border-bottom-style:solid;
+	border-right-style:solid;
+	border-color:Black;
+	border-width:1px;
+	background-color:red;
+             
+	}
+	#tb1 .toppxyellow
+{
+	border-top-style:solid;
+	border-bottom-style:solid;
+	border-right-style:solid;
+	border-color:Black;
+	border-width:1px;
+	background-color:yellow;
+             
+	}
+	#tb1 .toppxgray
+{
+	border-top-style:solid;
+	border-bottom-style:solid;
+	border-right-style:solid;
+	border-color:Black;
+	border-width:1px;
+	background-color:gray;
+             
+	}
+#tb1 .nopx
+{
+	border-right-style:solid;
+	border-bottom-style:solid;
+             border-width:1px;
+             border-color:black;
+             font-size:4.5pt;
+	}
+#tb1 .fname
+{
+	
+	width:320px;
+	border-right-style:solid;
+	border-bottom-style:solid;
+             border-width:1px;
+             border-color:black; 
+	
+	}
+#tb1 .pos
+{
+	border-right-style:solid;
+	border-bottom-style:solid;
+             border-width:1px;
+             border-color:black;     
+	width:200px;
+	}
+	
+
+#tb1 .attd
+{
+	border-bottom-style:dotted;
+             border-right-style:dotted;
+              border-left-style:dotted;
+             border-width:1px;
+             border-color:black;
+             height:20px;
+               
+	}
+	#tb1 td
+{
+	border:1px solid red;
+	
+	
+	}
+	
+	#tb1 label
+	{
+		font-size:10pt;
+		font-weight:bold;
+		}
+		
+		* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+		@media print {
+    #tb1 {
+    
+        margin: 0;
+        border: initial;
+        border-radius: initial;
+       width:initial;
+        min-height: initial;
+        box-shadow: initial;
+        background: initial;
+        page-break-after: always;
+    }
+
+}

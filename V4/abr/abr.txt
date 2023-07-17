@@ -1,0 +1,10 @@
+A,Absent,Attendance
+AM,Absent in Morning,Attendance
+AA,Absent in Afternoon,Attendance
+P,Present at job,Attendance
+SV,Site Visit ,Attendance
+T,Transfer,Attendance
+H,Holiday,Attendance
+W,Weekend,Attendance
+R,Resigned,Attendance
+New,New Employee,Attendance

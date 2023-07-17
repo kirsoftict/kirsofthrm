@@ -1,0 +1,27 @@
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='w0zy0f55tw33ydnv41lwu2i5'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='w0zy0f55tw33ydnv41lwu2i5'
+<=======12/20/2018 9:57:18 AM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at chatroom.Page_Load(Object sender, EventArgs e) in F:\kirsoft\hrm\mgtcontract\contract_mgt\chatroom.aspx.vb:line 43
+update chatroom set active='n' where ssid='w0zy0f55tw33ydnv41lwu2i5'
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(Object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at chatroom.Page_Load(Object sender, EventArgs e) in F:\kirsoft\hrm\mgtcontract\contract_mgt\chatroom.aspx.vb:line 43
+update chatroom set active='n' where ssid='w0zy0f55tw33ydnv41lwu2i5'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='w0zy0f55tw33ydnv41lwu2i5'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996
+update chatroom set active='n' where ssid='w0zy0f55tw33ydnv41lwu2i5'
+<=======12/20/2018 9:57:18 AM
+<=======12/20/2018 9:57:18 AM

@@ -1,0 +1,203 @@
+﻿
+#viewlistx
+{
+	font-family:Calibri;
+	font-size:11pt;
+	}
+#viewlistx table
+{
+		width:800px;
+	}	
+	.iddel
+	{
+		cursor:pointer;
+		color:Blue;
+		}
+.listcont
+	{
+		width:200px;
+		}
+		.viewdelpayrol
+		{
+			 width:104px;
+            height:20px;
+            background-image:url(../images/gif/view_del.gif) ;
+			}
+ .deletepayrol
+           {
+            width:65px;
+            height:20px;
+            background-image:url(../images/gif/btn_delete_02.gif) ;
+           
+           }
+           .deletepayrol:hover
+           {
+				background-color:Orange;
+			}
+       .viewpayrol
+           {
+            width:65px;
+            height:20px;
+            background-image:url(../images/gif/view_o.gif) ;
+           } 
+           .viewpayrol:hover
+           {
+			background-color:Blue;
+			}
+            .editpayrol
+           {
+            width:65px;
+            height:20px;
+            background-image:url(../images/gif/btn_edit_02.gif) ;
+           } 
+            .editpayrol:hover
+           {
+			background-color:Blue;
+			}
+			.ui-progressbar {
+		position: relative;
+	}
+	.progress-label {
+		position: absolute;
+		left: 50%;
+		top: 4px;
+		font-weight: bold;
+		text-shadow: 1px 1px 0 #fff;
+	}
+	
+             #bigprint
+            {
+                width:1400px;
+                font-size:9px;
+            }
+            #tb1 
+            {
+                font-size:9pt;
+                margin-left:55px;
+                width:1400px;
+                border:1px solid black;
+               }
+     #tb1 .fxname
+            {
+                 border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                width:310px;
+               
+            }                      
+       
+       #tb1 td
+            {
+         
+             border-bottom-style:dotted;
+             border-right-style:dotted;
+             border-width:1px;
+             border-color:black;
+                font-size:9pt;
+                
+            }  
+         
+          #tb1  .fitx
+            {
+				text-align:center;
+                border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                width:50px;
+               
+            }
+           #tb1 .dw
+            {
+               border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+              
+                width:30px;
+            }
+           #tb1 .dedct
+            {
+                
+                 border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+            }
+           #tb1 .signpart
+            {
+               border-top: 1px solid black;
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+                width:180px;
+            }        
+           #tb1 .cooo
+            {
+                border-top-style:solid;
+                 border-right-style:dotted;
+                
+               
+                
+                border-bottom-style:double;
+                border-width: 1px 2px 4px 0px;
+                border-color:black;
+                font-weight:bold;
+            }
+            #tb1 .dedctx
+            {
+                 border-bottom:1px solid black;
+                 border-right:1px solid black;
+            }
+          #tb1 .sss1
+          {
+            border:none none none none;
+            
+          }
+          #tbl1 .sss
+          {
+            border:none none none none;
+          }
+          #tb1 .l1
+          {
+          width:150px;
+          text-align:center;
+          border-style:none none;
+          }
+          #tb1 .l2
+          {
+          width:120px;
+          text-align:center;
+          border-style:none none;
+          }
+          #tb1 .l3
+          {
+          width:120px;
+          text-align:center;
+          border-style:none none;
+          }
+          #tb1 .l4
+          {
+          width:120px;
+          text-align:center;
+          border-style:none none;
+          }
+          #tb1 .l5
+          {
+          width:120px;
+          text-align:center;
+          border-style:none none;
+          }
+           #btndel
+           {
+           
+            border-style:none none;
+            background-color:gray;
+            cursor:pointer;
+           }
+           .bankpayrol
+           {
+            width:98px;
+            height:20px;
+            background-image:url(../images/gif/bankst.gif) ;
+           } 
+           .bankpayrol:hover
+           {
+			background-color:Blue;
+			} 

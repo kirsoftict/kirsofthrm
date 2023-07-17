@@ -1,0 +1,8 @@
+20khbqny3xzzfa451qykjuqa from session_End......>System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996F:\kirsoft\hrm\mgtcontract\contract_mgt<.......17/01/2019 23:08:46
+20khbqny3xzzfa451qykjuqa from session_End......>System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996F:\kirsoft\hrm\mgtcontract\contract_mgt<.......18/01/2019 05:14:35
+20khbqny3xzzfa451qykjuqa from session_End......>System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996F:\kirsoft\hrm\mgtcontract\contract_mgt<.......18/01/2019 11:24:47
+20khbqny3xzzfa451qykjuqa from session_End......>System.NullReferenceException: Object reference not set to an instance of an object.
+   at Kirsoft.contract.dbclass.excutes(Object sql, Object strcon, String pathx) in F:\kirsoft\hrm\mgtcontract\contract_mgt\App_Code\mastercode.vb:line 6996F:\kirsoft\hrm\mgtcontract\contract_mgt<.......18/01/2019 11:44:58

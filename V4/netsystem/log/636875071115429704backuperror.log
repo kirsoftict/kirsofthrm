@@ -1,0 +1,27 @@
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Kirsoft.hrm.dbclass.excutes(Object sql, SqlConnection conx, String pathx) in F:\kirsoft\hrm\v2\App_Code\mastercode.vb:line 6772System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Kirsoft.hrm.dbclass.excutes(Object sql, SqlConnection conx, String pathx) in F:\kirsoft\hrm\v2\App_Code\mastercode.vb:line 6772<=======3/6/2019 10:02:05 PM
+System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Kirsoft.hrm.dbclass.excutes(Object sql, SqlConnection conx, String pathx) in F:\kirsoft\hrm\v2\App_Code\mastercode.vb:line 6772System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Kirsoft.hrm.dbclass.excutes(Object sql, SqlConnection conx, String pathx) in F:\kirsoft\hrm\v2\App_Code\mastercode.vb:line 6772System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Kirsoft.hrm.dbclass.excutes(Object sql, SqlConnection conx, String pathx) in F:\kirsoft\hrm\v2\App_Code\mastercode.vb:line 6772System.InvalidOperationException: ExecuteNonQuery: Connection property has not been initialized.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Kirsoft.hrm.dbclass.excutes(Object sql, SqlConnection conx, String pathx) in F:\kirsoft\hrm\v2\App_Code\mastercode.vb:line 6772<=======3/6/2019 10:02:05 PM
+<=======3/6/2019 10:02:05 PM

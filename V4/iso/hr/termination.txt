@@ -1,0 +1,47 @@
+     <table width="100%" class='data table4' border="1"> <tbody><tr align="center">
+        <tr>
+            <td nowrap rowspan="2" width="20">
+                <p align="center" class="MsoNormal">
+                    <b><span>S/No<o:p></o:p></span></b></p>
+            </td>
+            <td nowrap rowspan="2" width="190">
+                <p align="center" class="MsoNormal">
+                    <b><span>Name<o:p></o:p></span></b></p>
+            </td>
+            <td nowrap rowspan="2" width="180">
+                <p align="center" class="MsoNormal">
+                    <b><span>Position<o:p></o:p></span></b></p>
+            </td>
+ <td nowrap rowspan="2" width="80">
+                <p align="center" class="MsoNormal">
+                    <b><span>Resign Date<br>mm/dd/yyyy<o:p></o:p></span></b></p>
+            </td>
+            <td rowspan="2" nowrap width="40">
+                <p align="center" class="MsoNormal">
+                    <b><span>Sex<o:p></o:p></span></b></p>
+            </td>
+            <td colspan="2" nowrap width="100">
+                <p align="center" class="MsoNormal">
+                    <b><span>Gross Pay<o:p></o:p></span></b></p>
+            </td>
+            <td rowspan="2" width="198">
+                <p align="center" class="MsoNormal">
+                    <b><span>Work Place<o:p></o:p></span></b></p>
+            </td>
+            
+            <td nowrap rowspan="2" width="150">
+                <p align="center" class="MsoNormal">
+                    <b><span>Reason<o:p></o:p></span></b></p>
+            </td>
+        </tr>
+        <tr>
+            
+            <td nowrap width="50">
+                <p align="center" class="MsoNormal">
+                    <b><span>Salary<o:p></o:p></span></b></p>
+            </td>
+            <td nowrap width="50">
+                <p align="center" class="MsoNormal">
+                    <b><span>Alw/Pr<o:p></o:p></span></b></p>
+            </td>
+        </tr>

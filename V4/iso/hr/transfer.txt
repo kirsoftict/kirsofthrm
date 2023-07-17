@@ -1,0 +1,52 @@
+    <table class='tbliso' width='100%' border="0" cellpadding="0" cellspacing="0" >
+        <tr>
+            <td nowrap rowspan="2" width="35">
+                <p align="center" class="MsoNormal">
+                    <b><span>S/No<o:p></o:p></span></b></p>
+            </td>
+            <td nowrap rowspan="2" width="120">
+                <p align="center" class="MsoNormal">
+                    <b><span>Name<o:p></o:p></span></b></p>
+            </td>
+<td nowrap rowspan="2" width="90">
+                <p align="center" class="MsoNormal">
+                    <b><span>Position<o:p></o:p></span></b></p>
+            </td>
+<td nowrap rowspan="2" width="60">
+                <p align="center" class="MsoNormal">
+                    <b><span>Transfered Date<o:p></o:p></span></b></p>
+            </td>
+<td nowrap colspan="2" width="126">
+                <p align="center" class="MsoNormal">
+                    <b><span>Project<o:p></o:p></span></b></p>
+            </td>
+            
+           
+            <td colspan="2" nowrap with="118">
+                <p align="center" class="MsoNormal">
+                    <b><span>Gross Pay<o:p></o:p></span></b></p>
+            </td>
+            <td nowrap rowspan="2" width="60">
+                <p align="center" class="MsoNormal">
+                    <b><span>Remark<o:p></o:p></span></b></p>
+            </td>
+        </tr>
+        <tr>
+<td nowrap width="160">
+                <p align="center" class="MsoNormal">
+                    <b><span>From <o:p></o:p></span></b></p>
+            </td>
+            <td nowrap  width="160">
+                <p align="center" class="MsoNormal">
+                    <b><span>To<o:p></o:p></span></b></p>
+            </td>
+
+            <td nowrap width="60">
+                <p align="center" class="MsoNormal">
+                    <b><span>Salary<o:p></o:p></span></b></p>
+            </td>
+            <td nowrap width="58">
+                <p align="center" class="MsoNormal">
+                    <b><span>Alw/Pr<o:p></o:p></span></b></p>
+            </td>
+        </tr>

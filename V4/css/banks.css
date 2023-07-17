@@ -1,0 +1,507 @@
+﻿body {
+}
+  .style1
+     {
+         height: 22.5pt;
+         width: 680pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 700;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: center;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style2
+     {
+         height: 22.5pt;
+         width: 680pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 700;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: center;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top-style: none;
+         border-top-color: inherit;
+         border-top-width: medium;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style3
+     {
+         height: 23.25pt;
+         width: 680pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 700;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: center;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top-style: none;
+         border-top-color: inherit;
+         border-top-width: medium;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style4
+     {
+         height: 27.0pt;
+         width: 15pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 700;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: center;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style5
+     {
+         width: 240pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 700;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: center;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style6
+     {
+         width: 67pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 700;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: center;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style7
+     {
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 700;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: left;
+         vertical-align: bottom;
+         white-space: nowrap;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style8
+     {
+         width: 90pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 700;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: center;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style9
+     {
+         color: black;
+         font-size: 12.0pt;
+         font-weight: 700;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: center;
+         vertical-align: bottom;
+         white-space: nowrap;
+         border-left-style: none;
+         border-left-color: inherit;
+         border-left-width: medium;
+         border-right: 1.0pt solid black;
+         border-top-style: none;
+         border-top-color: inherit;
+         border-top-width: medium;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style10
+     {
+         height: 16.5pt;
+         width: 15pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 400;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: general;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style11
+     {
+         width: 240pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 400;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: general;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style12
+     {
+         width: 67pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 400;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: right;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style13
+     {
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 400;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: left;
+         vertical-align: bottom;
+         white-space: nowrap;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style14
+     {
+         width: 90pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 400;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: general;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style15
+     {
+         color: black;
+         font-size: 12.0pt;
+         font-weight: 400;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: general;
+         vertical-align: bottom;
+         white-space: nowrap;
+         border-left-style: none;
+         border-left-color: inherit;
+         border-left-width: medium;
+         border-right: 1.0pt solid black;
+         border-top-style: none;
+         border-top-color: inherit;
+         border-top-width: medium;
+         border-bottom-style: none;
+         border-bottom-color: inherit;
+         border-bottom-width: medium;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style16
+     {
+         height: 16.5pt;
+         width: 15pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 400;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: general;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom: 1.0pt solid black;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style17
+     {
+         width: 240pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 400;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: general;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom: 1.0pt solid black;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style18
+     {
+         width: 67pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 700;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: right;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom: 1.0pt solid black;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style19
+     {
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 400;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: left;
+         vertical-align: bottom;
+         white-space: nowrap;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom: 1.0pt solid black;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style20
+     {
+         width: 90pt;
+         color: black;
+         font-size: 10.0pt;
+         font-weight: 400;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: general;
+         vertical-align: bottom;
+         white-space: normal;
+         border-left: 1.0pt solid black;
+         border-right-style: none;
+         border-right-color: inherit;
+         border-right-width: medium;
+         border-top: 1.0pt solid black;
+         border-bottom: 1.0pt solid black;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+     .style21
+     {
+         color: black;
+         font-size: 12.0pt;
+         font-weight: 400;
+         font-style: normal;
+         text-decoration: none;
+         font-family: Calibri, sans-serif;
+         text-align: general;
+         vertical-align: bottom;
+         white-space: nowrap;
+         border-left-style: none;
+         border-left-color: inherit;
+         border-left-width: medium;
+         border-right: 1.0pt solid black;
+         border-top-style: none;
+         border-top-color: inherit;
+         border-top-width: medium;
+         border-bottom: 1.0pt solid black;
+         padding-left: 1px;
+         padding-right: 1px;
+         padding-top: 1px;
+     }
+
+
+

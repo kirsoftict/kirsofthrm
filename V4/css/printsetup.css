@@ -1,0 +1,71 @@
+﻿
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #FAFAFA;
+    font: 13pt "Tahoma";
+}
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.page {
+    width: 31cm;
+    min-height: 40.7cm;
+    padding: 0cm;
+    margin: 0.25px;
+    border: 1px #D3D3D3 solid;
+    border-radius: 1px;
+    background: white;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+    font: 13pt "Tahoma";
+    
+}
+.subpage {
+    padding: 1cm;
+    border: 1px red solid;
+   width:29cm;
+     min-height: 38.7cm;
+    outline: 2cm #FFEAEA solid;
+    font: 13pt "Tahoma";
+    margin-left:auto;
+margin-right:auto;
+}
+
+
+  
+    .headerp {
+ text-align: center;
+ font-weight: bold;
+}
+.tcenter {
+ text-align: right;
+ font-weight: bold;
+}
+#tblneed 
+{
+ border: 1px solid #000;
+  margin-left:auto;
+margin-right:auto;
+ }
+ #tblneed td
+ {
+ border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+  }
+@media print {
+    .page {
+    
+        margin: 0;
+        border: initial;
+        border-radius: initial;
+       width:initial;
+        min-height: initial;
+        box-shadow: initial;
+        background: initial;
+        page-break-after: always;
+    }
+
+}
+  
+     
